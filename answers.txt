@@ -8,3 +8,8 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 Answer: One example of a field that data science could be applied to would be military/defense.
 Using data science to predict the actions of our enemies could be particularly helpful for
 devising plans and tactics to pretect the country and its citisens from potential threats.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines two different branches into one. Rebasing changes the base of the repository to be as though
+it was from one specific commit, instead of merging the two.
