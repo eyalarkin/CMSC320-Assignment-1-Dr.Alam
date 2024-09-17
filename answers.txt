@@ -2,3 +2,9 @@ Q1: Why might we consider using git?
 
 Answer: using version control tools can be very helpful, not only for saving your work in the cloud (remote repository),
 but also for going back to old versions of your work, or trying out different things and being able to easily switch
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: One example of a field that data science could be applied to would be military/defense.
+Using data science to predict the actions of our enemies could be particularly helpful for
+devising plans and tactics to pretect the country and its citisens from potential threats.
